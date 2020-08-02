@@ -8,8 +8,9 @@
 
 
 ## About me 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
-I'm open-source development enthusiast.
+I'm a software development engineer. I like to work with Laravel, ASP.net , NodeJS and Python. 
+I love Linux Kernel based OSs such as Ubuntu and CentOS and also like  Windows server 2012  RDP :3839 xd 
+I'm open-source development enthusiast and cyber security volunteer.
 
 
 ## Stack I work with
