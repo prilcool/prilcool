@@ -2,6 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/prilcool?label=Follow&style=social)](https://github.com/prilcool)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prilcool)](https://github.com/prilcool)
+[![Linkedin](https://img.shields.io/badge/Prilvesh%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prilvesh-k-4349ba54/)](https://www.linkedin.com/in/prilvesh-k-4349ba54/)
+
 
 
 
