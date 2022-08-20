@@ -24,7 +24,6 @@ I'm open-source development enthusiast and cyber security volunteer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
