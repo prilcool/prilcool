@@ -1,6 +1,9 @@
 # Prilvesh K
 
 **Senior Developer @ KPMG Australia (FDX)** | **15+ yrs Software Engineering** | **Data Architect** | **Cybersecurity & Reverse Engineering**
+Offers specialized software development through cybersecurity tha delivers High value , Immediate impact with a unique x-factor based competitive advantage and quick turn around times.
+No other developer in the South pacific has his set of top tier Hybrid qualifications , Experience and Track record in  Software development + Cyber security  + Quantum cryptography + Management .
+A true polymath that excels at any field in scope .
 
 [![Github](https://img.shields.io/github/followers/prilcool?label=Follow&style=social)](https://github.com/prilcool)
 [![Linkedin](https://img.shields.io/badge/Prilvesh%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prilvesh-k-4349ba54/)](https://www.linkedin.com/in/prilvesh-k-4349ba54/)
