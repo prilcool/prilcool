@@ -15,6 +15,10 @@ I am a **Senior Developer at KPMG Australia (FDX)** and a software engineer spec
 
 I have architected and delivered as **sole full stack principal engineer 25+ data processing platforms** for the Australian market, consistently on time, within budget, and with zero production downtime. My work focuses on building reliable, scalable systems while solving complex operational and integration challenges with measurable impact on business savings of **up to $1.2 million** in resourcing & licensing fees. Data volumes involve millions of records with 300+ simultaneous users performing concurrent transactions spanning across intranet and airline APIs.
 
+Early in his career 
+He has managed 60+ workers on a rotational basis at Mindpearl for FIJI airways for advanced airline operations for 3 years 
+He has managed 60+ workers on a rotational basis at an outbound callcentre for OPTUS  for 2 years  .
+
 * **Strategic Leadership:** Defined system architecture standards across Airline teams, advised leadership on build vs. buy decisions, and mentored engineers.
 * **Performance:** Reduced system risk and improved SLA/latency by **95%**.
 * **Compliance:** Worked in high-stakes, regulated Australian environments with Directors & CEOs; systems have passed rigorous audit, compliance, and governance checks.
