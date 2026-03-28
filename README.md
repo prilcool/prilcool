@@ -4,6 +4,8 @@
 
 [![Github](https://img.shields.io/github/followers/prilcool?label=Follow&style=social)](https://github.com/prilcool)
 [![Linkedin](https://img.shields.io/badge/Prilvesh%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prilvesh-k-4349ba54/)](https://www.linkedin.com/in/prilvesh-k-4349ba54/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-0073B1?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/prilvesh)
+[![GovHack](https://img.shields.io/badge/GovHack-FF5722?style=for-the-badge&logo=google-cloud&logoColor=white)](https://hackerspace.govhack.org/profiles/prilvesh_krishna)
 
 ## 🚀 Professional Profile
 I am a **Senior Developer at KPMG Australia (FDX)** and a software engineer specializing in data systems, with applied experience in cybersecurity and reverse engineering, having demonstrated impact across production platforms and global vulnerability disclosure programs.
