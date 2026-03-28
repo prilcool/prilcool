@@ -96,20 +96,5 @@ I have architected and delivered as **sole full stack principal engineer 25+ dat
 - 🛡️ **Security:** Active cybersecurity enthusiast and vulnerability researcher.
 - 🐧 **Environment:** Power user of Linux (Ubuntu/CentOS) and experienced in Windows Server environments.
 
-## Technical Stack
 
-### Languages & Backend
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 
-### Data & Infrastructure
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-## 📊 Stats & Visibility
-![Prilvesh's stats](https://github-readme-stats.vercel.app/api?username=prilcool&show_icons=true)
-![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prilcool)
