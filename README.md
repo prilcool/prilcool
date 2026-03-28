@@ -1,44 +1,72 @@
 # Prilvesh K
 
+**Senior Developer @ KPMG Australia (FDX)** | **15+ yrs Software Engineering** | **Data Architect** | **Cybersecurity & Reverse Engineering**
+
 [![Github](https://img.shields.io/github/followers/prilcool?label=Follow&style=social)](https://github.com/prilcool)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prilcool)](https://github.com/prilcool)
 [![Linkedin](https://img.shields.io/badge/Prilvesh%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prilvesh-k-4349ba54/)](https://www.linkedin.com/in/prilvesh-k-4349ba54/)
 
+## 🚀 Professional Profile
+I am a **Senior Developer at KPMG Australia (FDX)** and a software engineer specializing in data systems, with applied experience in cybersecurity and reverse engineering, having demonstrated impact across production platforms and global vulnerability disclosure programs.
 
+I have architected and delivered as **sole full stack principal engineer 25+ data processing platforms** for the Australian market, consistently on time, within budget, and with zero production downtime. My work focuses on building reliable, scalable systems while solving complex operational and integration challenges with measurable impact on business savings of **up to $1.2 million** in resourcing & licensing fees. Data volumes involve millions of records with 300+ simultaneous users performing concurrent transactions spanning across intranet and airline APIs.
 
+* **Strategic Leadership:** Defined system architecture standards across Airline teams, advised leadership on build vs. buy decisions, and mentored engineers.
+* **Performance:** Reduced system risk and improved SLA/latency by **95%**.
+* **Compliance:** Worked in high-stakes, regulated Australian environments with Directors & CEOs; systems have passed rigorous audit, compliance, and governance checks.
+* **Cybersecurity:** Active contributor to **100+ Vulnerability Disclosure Programs (VDPs)** (U.S. DoD, SOFWERX, AFWERX, Microsoft). Ranked in the **top 3% of ethical hackers in New Zealand** on HackerOne.
+* **Operational Roots:** Led teams of **60+ staff** across aviation and telecommunications, supporting global carriers including Fiji Airways, Qantas, Virgin Australia, American Airlines, and Cathay Pacific, as well as Optus and Vodafone Hutchison Australia.
 
-## About me 
-I'm a software development engineer. I like to work with Laravel, ASP.net , NodeJS and Python. 
-I love Linux Kernel based OSs such as Ubuntu and CentOS and also like  Windows server 2012  RDP :3839 xd 
-I'm open-source development enthusiast and cyber security volunteer.
+---
 
+## 🛠️ Technical Stack
+* **Cloud & Infrastructure:** Azure, GCP, GCA, AWS, Linux, Windows Server, Cloud Containers, Docker.
+* **Databases:** SQL, Postgres, MongoDB, Oracle (Advanced).
+* **Languages & Frameworks:** C#, Python, C, PHP, C++, Node.js, React.js.
 
-## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+---
 
+## 🎓 Education & Specialized Training
 
-### Interesting stats
+### Academic Foundations
+* **University of the South Pacific:** Bachelor of Commerce (BCom) - Information Systems & Management
+* **Monash University:** Post Quantum Cryptography (PQCIP)
+* **Purdue University:** Semiconductor Fabrication
+* **University of Helsinki:** Artificial Intelligence (AI Elements)
+* **NASA:** NASA Open Science Certification
 
+### Cybersecurity & Forensic Engineering
+* **U.S. Dept. of Homeland Security (DHS):** * Virtual Industrial Control Systems Cybersecurity (301V)
+    * ICS Cybersecurity Vulnerabilities & Practices
+    * Attack Methodologies in IT & Industrial Control Systems
+    * Reverse Engineering & DNS Attacks | 101 Coding
+* **EC-Council:** Digital Forensics (DFE)
+* **ICSI UK | DefensityOne:** CNSS Certified Network Security Specialist
+* **Fortinet:** Certified Associate Cybersecurity & FortiGate 7.4 Operator
+* **Microsoft:** Azure Network Security Ninja Training
+* **Commonwealth of Learning:** Advanced Cybersecurity Training for Teachers
+* **Huawei:** Cyber Security Exam for Partners
+
+### Quantum Computing & AI
+* **IBM Quantum:** Challenge Achievement (2023 & 2024), Quantum Optimization, AI Concepts, Deep Learning (TensorFlow), Machine Learning (Python), Data Visualization, Security for Cloud Apps.
+* **NVIDIA:** Building Video AI Applications at the Edge (Jetson Nano), Getting Started with AI on Jetson Nano, Disaster Risk Monitoring (Satellite Imagery).
+* **Hasso Plattner Institute (HPI):** Energy Efficient Programming & Quantum Computing
+* **D-Wave:** Introduction to Quantum Computing
+* **Intel:** AI From the Data Center to the Edge (Optimized Intel Architecture)
+* **Anthropic:** Certificate of completion: Claude 101
+
+### Enterprise & Platform Certifications
+* **Microsoft:** Teams Rooms Technical Professional (2024), Azure Stack HCI Accreditation, AI Foundry & Copilot Studio, Innovative Educator, Advertising Search.
+* **AWS:** Technology Architecting, Technical Professional (Digital).
+* **Oracle:** Advanced Database for Developers Next Level.
+* **Google:** Android Enterprise Platform Associate & Android Enterprise Associate (2023), Mobile Sites Certification.
+* **Huawei:** HCIA 5G
+* **Cisco:** NDG Linux Essentials
+* **VMware:** Skyline Advisor Pro Technologist
+* **Axelos:** ITIL V3
+* **HackerRank:** SQL (Advanced) Certificate
+
+---
+
+## 📊 Stats & Visibility
 ![Prilvesh's stats](https://github-readme-stats.vercel.app/api?username=prilcool&show_icons=true)
+![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prilcool)
