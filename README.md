@@ -17,6 +17,31 @@ I have architected and delivered as **sole full stack principal engineer 25+ dat
 * **Operational Roots:** Led teams of **60+ staff** across aviation and telecommunications, supporting global carriers including Fiji Airways, Qantas, Virgin Australia, American Airlines, and Cathay Pacific, as well as Optus and Vodafone Hutchison Australia.
 
 ---
+### Languages & Frameworks
+<code><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_dotnet/microsoft_dotnet-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+
+### Cloud & Infrastructure
+<code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+
+### Data & Specialized Tech
+<code><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/intel/intel-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+
+---
 
 ## 🛠️ Technical Stack
 * **Cloud & Infrastructure:** Azure, GCP, GCA, AWS, Linux, Windows Server, Cloud Containers, Docker.
