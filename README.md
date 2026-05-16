@@ -1,5 +1,124 @@
 # Prilvesh K
 
+# Prilvesh Krishna
+### Senior Software Development Engineer & Technical Architect
+
+**Location:** Suva, Fiji | **Mobile:** (+679) 8662821 | **Email:** [prilcool@gmail.com](mailto:prilcool@gmail.com) | **LinkedIn:** [linkedin.com/in/prilvesh-k-4349ba54/](https://www.linkedin.com/in/prilvesh-k-4349ba54/)
+
+---
+
+## Professional Summary
+Highly accomplished Senior Software Development Engineer and Technical Architect with over 15 years of comprehensive experience across software engineering, cybersecurity, telecommunications, systems automation, and compliance sectors. Adheres to a performance-focused, direct engineering philosophy emphasizing runtime efficiency, streamlined data architecture, and structural clarity. Proven track record of architecting and deploying over 25 comprehensive data processing and reporting platforms serving corporate enterprises, international airlines, and financial institutes across the Indo-Pacific and Australian regions. Recognized elite cybersecurity researcher, ranked 2nd on HackerOne in New Zealand (Q2 2022), with extensive participation in Vulnerability Disclosure Programs (VDPs) for high-stakes defense and enterprise networks.
+
+---
+
+## Technical Core Competencies
+
+* **Programming Stack:** C#, C++, PHP (MVC/OOP, Laravel Lumen), Python, ASP.NET Core, JavaScript (Vanilla, jQuery, AngularJS), HTML5, CSS3
+* **Databases & Analytics:** SQL, MySQL, MongoDB, AWS RDS, Advanced Database Systems, Data Mining, Schema Migration, ETL Execution
+* **Cloud & Infrastructure:** AWS (EC2, Auto Scaling, Elastic Beanstalk, Lambda, S3, Route 53, Certificate Manager), Google Cloud Platform (Compute Engine, App Engine, RDS), Microsoft Azure, Linux Systems (CentOS, Ubuntu), Windows Server (2008–2016)
+* **Cybersecurity & DevOps:** Penetration Testing, Vulnerability Remediation, XSS Mitigation, Public Key Infrastructure (PKI), Git (GitHub, Bitbucket), CI/CD, Jira, Confluence
+* **Emerging Paradigms:** Quantum Computing Circuit Logic (Qiskit), Post-Quantum Cryptography (PQC) Resilience, Local SLM Inference, 2D/3D Asset Pipeline (Raylib, Blender)
+
+---
+
+## Professional Experience
+
+### Senior Developer — FDX Team
+**KPMG Australia** | Corporate Professional Services  
+*2024 — Present*
+
+* Architect, engineer, and optimize complex, enterprise-grade data platforms and software solutions for the Australian corporate landscape.
+* Implement robust architectural design patterns to maximize performance, stability, and clean processing structures.
+
+### Founder & Principal Consultant — Software & Cybersecurity
+**Driver Force One (DFO)** | Technology & Security Consultancy  
+*2018 — 2024*
+
+* Operated an independent consultancy delivering end-to-end SDLC systems engineering and elite penetration testing solutions.
+* **Aviation Online & Break Away Travel Club:** Modernized, refactored, and streamlined core flight e-commerce systems; designed optimized SQL schemas and conducted seamless multi-generational database migrations. Coded secure middleware and engineered underlying API pipelines.
+* **Pacific Centrecom:** Spearheaded systems analysis, structural software design, and full-stack development to build and scale critical internal infrastructure.
+* **Cybersecurity Operations:** Conducted comprehensive target scanning, black-box penetration testing, and remediation verification through HackerOne. Secured sensitive assets for the United States Department of Defense (DoD), AFWERX, SOFWERX, and Shutterfly. Secured websites against complex injection vectors including XSS.
+
+### Legal & Compliance Attaché
+**Bank of South Pacific (BSP)** | Corporate & Retail Banking  
+*2021 — 2023*
+
+* Managed high-profile e-commerce transaction monitoring, Anti-Money Laundering (AML), and Counter-Terrorism Financing (CTF) verifications.
+* Served as primary technical liaison executing judicial search warrants alongside Law Enforcement and Global Agencies (CID, Cybercrime Units, Interpol, FRCS, FICAC).
+* Coordinated Enhanced Customer Due Diligence (ECDD) and Politically Exposed Persons (PEP) reviews across a network of 20+ branches.
+
+### Web Developer & Data Processing Engineer
+**Pacific Centrecom** | Aviation Logistics & Corporate BPO  
+*2018 — 2020*
+
+* Architected, developed, and deployed 13 distinct data processing and reporting applications utilizing ASP.NET and PHP, facilitating over 1,000 automated daily transactions for 300+ operational personnel.
+* Engineered core analysis and CEO-level reporting structures for major international brands, including Fiji Airways and Air Malta.
+* Provisioned, maintained, and hardened production infrastructure including virtual hosts, network routes, and dedicated firewalls.
+
+### Software & Cloud Developer
+**iCumulus Australia** | Enterprise Big Data Marketing  
+*2017 — 2018*
+
+* Collaborated within a distributed global team across Australia, Thailand, and Fiji to build massive data manipulation frameworks.
+* Successfully executed 6 high-capacity enterprise analytics and AI/ML applications targeting consumer demographics in the Australian market.
+* Provisioned multi-cloud network infrastructure utilizing AWS EC2, Elastic Beanstalk, RDS, S3, and Google Cloud Engine.
+
+### Service Desk & Infrastructure Engineer
+**Go2solutions / Ethan Group Australia** | Enterprise Managed Services  
+*2015 — 2017*
+
+* Executed Network Operations Center (NOC) monitoring and complex remote infrastructure troubleshooting across 10+ corporate networks.
+* Analyzed packets and structural data routing via SolarWinds and N-able; managed Windows Server Active Directory and Exchange environments.
+
+### IT Support Engineer
+**GreyMouse Ltd** | Managed ISP Support  
+*2015*
+
+* Delivered Tier-1 core routing, provisioning, and structural network shaping for Australian ISPs (Ewire, Fuzenet, Homelinx) across Fiber, VDSL, and ADSL.
+
+### Aviation Operations Team Leader & Ticketing Specialist
+**Mindpearl / Fiji Airways Account** | Aviation Operations  
+*2010 — 2014*
+
+* Promoted iteratively from Representative to Ticketing Specialist to Team Leader, managing rotational teams of 15 to 60 operational personnel.
+* Coordinated critical flight emergencies, life-support logistics, equipment updates, and automated aircraft equipment updates directly with global engineering departments (Fiji Airways, Cathay Pacific).
+* Generated and verified daily flight reconciliation data, executing comprehensive anti-fraud analysis across international pricing and ticketing systems.
+
+---
+
+## Education & Professional Qualifications
+
+### Bachelor of Commerce in Management and Information Systems & Public Administration
+**University of the South Pacific** | **GPA: 3.60** *(Completed part-time while maintaining full-time employment)*
+* **Highly Relevant Advanced Coursework:** Business Information Systems (A), Research Skills (A), Advanced Database Systems (B+), Total Quality Management (B+), Data Mining (B), Basic Statistics (B), Mathematics For Science (B).
+
+### Specialization Graduate: Post-Quantum Cryptography in the Indo-Pacific (PQCIP)
+**Monash University** | Cybersecurity Research Specialization
+
+---
+
+## Top Global Certifications & Achievements
+
+| Issuing Organization | Details |
+| :--- | :--- |
+| **HackerOne** | Ranked **2nd in New Zealand** (April — June 2022) \| Elite Bug Bounty Hunter (100+ VDP Programs) |
+| **Axelos Group** | ITIL V3 Professional IT Service Management Certification |
+| **Amazon Web Services** | AWS Certified Cloud Practitioner Essentials \| AWS Technical Professional |
+| **IBM** | Machine Learning with Python \| Deep Learning with TensorFlow |
+| **Intel** | AI from the Data Center to the Edge Architecture Certification |
+| **Microsoft** | ASP.NET Core Advanced & Intermediate \| CI/CD Engineering \| Windows Server Security & Identity \| Implementing a Basic PKI \| Active Directory Enhancements \| Azure Container-Based Web Apps |
+| **Oracle** | Databases for Developers: Next Level (Certificate of Excellence) |
+| **Fortinet** | NSE1 Network Security Associate |
+
+---
+
+## Professional References
+
+* **KPMG Australia:** Hetal Patel (Senior Operations Manager), Anthony Salerno (Hiring Manager), Siteri Paumau (Manager)
+* **Pacific Centrecom:** Magnesh Reddy (IT Manager), Hitesh Chand (Human Resources Manager)
+* **iCumulus Pty Ltd:** Mark Halstead (Managing Director ), Sumeet Kapadia (Project Manager)
+
 **Senior Developer @ KPMG Australia (FDX)** | **15+ yrs Software Engineering** | **Data Architect** | **Cybersecurity & Reverse Engineering**
 Offers specialized software development through cybersecurity tha delivers High value , Immediate impact with a unique x-factor based competitive advantage and quick turn around times.
 No other developer in the South pacific has his set of top tier Hybrid qualifications , Experience and Track record in  Software development + Cyber security  + Quantum cryptography + Management .
